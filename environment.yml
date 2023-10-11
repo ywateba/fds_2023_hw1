@@ -1,0 +1,14 @@
+name: fds
+channels:
+  - defaults
+dependencies:
+  - python=3.9.0
+  - pandas
+  - pillow
+  - numpy
+  - scipy
+  - matplotlib 
+  - opencv-python 
+  - scikit-image 
+  - scikit-learn
+prefix: /home/arywatt/miniconda3/envs/fds
